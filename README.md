@@ -11,7 +11,7 @@ the host for the eaglercraft discord website
 
 👥 Play with friends
 ### 🚫 Limitations
-🌐 Uses wss:// instead of https://
+🌐 Servers use wss:// instead of https://
 
 🔒 most servers are password protected by username (eg. Notch, DinnerBone, etc.)
 ## Disclaimer
