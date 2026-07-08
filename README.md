@@ -13,4 +13,6 @@ the host for the eaglercraft discord website
 ### 🚫 Limitations
 🌐 Uses wss:// instead of https://
 
-🔒 most servers are password protected by username (eg. Notch, DinnerBone, etc.
+🔒 most servers are password protected by username (eg. Notch, DinnerBone, etc.)
+## Disclaimer
+I am not the owner of eaglercraft and anything included in this project can be tooken down or transferred to the owners
