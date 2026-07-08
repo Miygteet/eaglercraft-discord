@@ -1,6 +1,6 @@
 # eaglercraft-discord
 the host for the eaglercraft discord website
-## Features
+## 📋 Features
 🌐 Supports a web based interface
 
 💸 It's free
@@ -8,3 +8,9 @@ the host for the eaglercraft discord website
 🪪 Change your username and avatar at anytime
 
 📲 No download is required
+
+👥 Play with friends
+### 🚫 Limitations
+🌐 Uses wss:// instead of https://
+
+🔒 most servers are password protected by username (eg. Notch, DinnerBone, etc.
